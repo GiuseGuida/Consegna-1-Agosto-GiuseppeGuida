@@ -1,0 +1,8 @@
+//3 handshake 
+
+Il laptop IP 192.168.100.100 effettua una SYN all' IP 192.168.200.100 che ritorna con un ACK verso l'IP source accettando la connessione.
+
+//IP address negli switch
+
+Il Router "immagazzina" i MAC che lo attraversanop in fase di routing, ma i 2 switch non hanno possibilitá di vedere i MAC degli altri endpoint di un altra rete.
+
